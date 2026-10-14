@@ -5,12 +5,6 @@
 
 I enjoy building things, solving technical challenges, and exploring better ways to write software.
 
-<p align="left">
-  <a href="https://github.com/IamHaiderRasheed">
-    <img src="https://komarev.com/ghpvc/?username=IamHaiderRasheed&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ### 💻 Tech Stack
 
 **Languages:** JavaScript, TypeScript, PHP, Python
@@ -34,9 +28,8 @@ JavaScript, TypeScript, React.js, Node.js, WordPress, and problem-solving.
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/IamHaiderRasheed">GitHub</a> •
+  <a href="https://github.com/Haider-Wo">GitHub</a> •
   <a href="https://www.linkedin.com/in/IamHaiderRasheed">LinkedIn</a> •
-  <a href="https://www.behance.net/IamHaiderRasheed">Behance</a> •
   <a href="mailto:TheHaiderRasheed@gmail.com">Email</a>
 </p>
 
