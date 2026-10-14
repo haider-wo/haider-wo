@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**haider-wo/haider-wo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Haider Rasheed
 
-Here are some ideas to get you started:
+### 🧑‍💻 A Code Monk, passionate about problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building things, solving technical challenges, and exploring better ways to write software.
+
+<p align="left">
+  <a href="https://github.com/IamHaiderRasheed">
+    <img src="https://komarev.com/ghpvc/?username=IamHaiderRasheed&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+### 💻 Tech Stack
+
+**Languages:** JavaScript, TypeScript, PHP, Python
+
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Sass
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**WordPress:** Gutenberg, ACF, Elementor, WPBakery, WooCommerce
+
+**Databases:** MongoDB, PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, Docker, Postman, Vite
+
+### 🌱 Currently Exploring
+Better software architecture, performance optimization, and building maintainable applications.
+
+### 💬 Let's Talk About
+JavaScript, TypeScript, React.js, Node.js, WordPress, and problem-solving.
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/IamHaiderRasheed">GitHub</a> •
+  <a href="https://www.linkedin.com/in/IamHaiderRasheed">LinkedIn</a> •
+  <a href="https://www.behance.net/IamHaiderRasheed">Behance</a> •
+  <a href="mailto:TheHaiderRasheed@gmail.com">Email</a>
+</p>
+
+---
+
+*“Code with purpose. Solve with curiosity.”* ⚡
